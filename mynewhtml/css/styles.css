@@ -1,0 +1,38 @@
+
+body{
+  background-color:#eaf6f6;
+}
+
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+
+width: 5%;
+}
+h1{
+    text-shadow:2px 1px rgb(174, 180, 180);
+    color: #66bfbf;
+}
+h3{
+    text-decoration: underline;
+    color: #66bfbf;
+}
+
+img{
+  background-color:rgb(78, 173, 78);
+  
+}
+.watermelon{
+  background-color: darkkhaki;
+}
+.watermelon:hover{
+  background-color: darkorange;
+}
+.circular{
+  border-radius: 100%;
+}
+.photo:hover{
+  background-color: lightgoldenrodyellow;
+}
